@@ -18,6 +18,7 @@ RENAME COLUMN new_date TO sales_date;
 -- change the position of sales date to second column
 ALTER TABLE sales_data
 MODIFY COLUMN sales_date DATE AFTER order_number;
+
 -- 1. How many transactions were recorded in total?
 -- Use the COUNT function to find the total number of transactions
 SELECT COUNT(*) AS  total_transactions
