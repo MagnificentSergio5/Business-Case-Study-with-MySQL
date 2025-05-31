@@ -49,4 +49,4 @@ These derived metrics were essential for conducting performance analysis across 
 
 ---
 
-You can access the detailed description of the project and business questions and answers [here](https://github.com/MagnificentSergio5/Business-Case-Study-with-MySQL/blob/main/Project%20Details).
+You can access the detailed description of the project and business questions and answers [here](https://github.com/MagnificentSergio5/Business-Case-Study-with-MySQL/blob/main/Business%20Questions%20and%20Answers.md).
